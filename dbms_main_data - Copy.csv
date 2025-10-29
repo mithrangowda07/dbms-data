@@ -1,0 +1,313 @@
+﻿college_name,Cluster,branch_name,Category ,cutoff_2022_R1,cutoff_2022_R2,cutoff_2022_R3,cutoff_2023_R1,cutoff_2023_R2,cutoff_2023_R3,cutoff_2024_R1,cutoff_2024_R2,cutoff_2024_R3,cutoff_2025_R1,cutoff_2025_R2,cutoff_2025_R3
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,1G,3258,3258,3258,6874,6874,6874,8775,8775,8775,6385,10045,10045
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,1K,--,--,--,79980,84957,84957,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,1R,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,2AG,3048,4673,17397,4401,4561,11791,5664,6380,6380,5027,5027,8662
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,2AK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,2AR,17397,17397,17784,13993,13993,13993,6852,9392,9392,6131,14155,14155
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,2BG,5856,6506,43886,4912,15163,15163,6919,6919,6919,8805,8805,8805
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,2BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,2BR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,3AG,2440,2932,2932,5745,5745,5745,2444,6229,8581,2268,2268,2268
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,3AK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,3AR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,3BG,5134,5134,21733,3452,5913,5913,5981,9105,9105,2845,2845,2845
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,3BK,15520,15520,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,3BR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,GM,2153,2205,2901,2507,4078,4868,1809,3752,3824,1932,2038,2069
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,GMK,--,--,--,--,--,--,10915,18477,18477,7639,7639,7639
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,GMR,9431,11807,15316,6789,11414,13570,4122,6852,6852,5671,8438,11397
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,SCG,15879,22164,35551,19009,24839,24839,--,--,--,10585,17682,17682
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,SCK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,SCR,41566,41566,57962,56396,78663,78663,60164,60164,60164,33044,33044,65205
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,STG,--,--,--,36229,36229,36229,17281,17281,17281,16051,16051,16051
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,STK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,Aero Space Engineering,STR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,1G,6727,19322,52303,6349,10888,--,19438,25508,25508,6268,10788,24306
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,1K,29211,29211,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,1R,67846,67846,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,2AG,7044,16911,34637,6753,13000,30927,12939,23528,23528,7800,8643,17646
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,2AK,--,--,--,--,--,--,23528,52660,94377,30772,32460,32460
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,2AR,--,--,--,--,--,--,32662,75976,160753,25273,25273,25273
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,2BG,--,--,--,13583,13583,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,2BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,2BR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,3AG,7399,7399,31357,10210,10210,17117,8563,8563,12521,10684,10684,10684
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,3AK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,3AR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,3BG,5296,6790,30729,12553,12553,--,12721,14575,14575,7388,11282,11282
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,3BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,3BR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,GM,4914,6727,11373,3327,6753,13000,5881,7376,8563,3963,6814,6814
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,GMK,--,--,--,24887,24887,24887,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,GMR,9268,17735,62523,12904,27743,30408,13770,13770,13770,10770,16571,16571
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,SCG,13054,31387,45051,22608,22608,22608,44128,61329,95721,30756,30756,33768
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,SCK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,SCR,--,--,--,--,--,--,61454,71685,180923,54935,54935,54935
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,STG,13512,13512,66405,6140,115724,147804,45191,45191,45191,35420,76868,76868
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,STK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,BIO-TECHNOLOGY,STR,29891,66405,88164,172748,172748,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,1G,14432,14432,34641,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,1K,--,--,--,--,--,--,43342,210249,210249,--,--,--
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,1R,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,2AG,18708,19411,75293,17230,17358,17358,16779,17011,22267,11453,16116.5,24164
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,2AK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,2AR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,2BG,--,--,--,30330,30330,30330,30556,43596,43596,--,--,--
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,2BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,2BR,--,--,--,--,--,--,43596,88516,168700,--,--,--
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,3AG,--,--,--,19987,19987,19987,12855,17328,27081,--,--,--
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,3AK,80641,80641,80641,--,--,--,--,--,--,48576,48576,48576
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,3AR,--,--,--,32880,32880,32880,--,--,--,12727,12727,12727
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,3BG,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,3BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,3BR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,GM,9725,10327,14432,9856,12821,14949,8603,13690,13853,5906,8209,11049
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,GMK,--,--,--,30808,30808,30808,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,GMR,18086,18086,18354,20760,20760,20760,11727,28478,28478,11745,11745,11745
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,SCG,34522,34522,34522,58987,58987,58987,24059,24059,24059,44081,44081,44081
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,SCK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,SCR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,STG,27307,27307,107125,115802,134627,--,36539,65444,65444,27247,56440,56440
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,STK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Other Cluster,CHEMICAL ENGINEERING,STR,106591,89563,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,1G,28556,35842,53572,25967,26694,26694,27080,41722,58994,15934.5,25654,25654
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,1K,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,1R,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,2AG,35882,41603,96992,28433,28433,31724,23186,37759,36174,18239,19040,31362
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,2AK,67894,67894,130282,--,--,--,--,--,--,45094,79729,79729
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,2AR,38796,55897,131523,38205,38205,38205,34312,53256,53256,34073,42996,42996
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,2BG,36918,49705,50728,20700,20700,20700,12999,20085,86550,19147,19147,36554
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,2BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,2BR,53493,53493,90872,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,3AG,22092,27013,50321,--,--,--,--,--,--,9889,10832,21896
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,3AK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,3AR,--,--,121928,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,3BG,31098,34548,74864,19240,19240,19240,17427,17427,17427,16721,19501,19501
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,3BK,--,--,--,38667,38667,38667,49255,49255,49255,--,--,--
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,3BR,34548,39769,148305,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,GM,20624,26523,34548,17630,18500,18609,11408,15239,16279,9539,10754,10832
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,GMK,27388,30827,37383,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,GMR,22969,37383,71798,30465,30465,30465,26756,27460,27460,21085,25157,40611
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,SCG,47091,47249,110861,35311,46652,46652,34913,34913,34913,23961,34229,34229
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,SCK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,SCR,47249,70042,--,65095,111106,--,42558,42558,42558,27105,43116,43116
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,STG,25605,27800,39555,32690,32690,32690,61968,61968,61968,10251,42919,42919
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,STK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Civil Cluster,CIVIL ENGINEERING,STR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),1G,1191,2007,4153,874,874,3358,1387,1856,1856,1637,2342,2342
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),1K,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),1R,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),2AG,1310,1715,2184,1876,2269,2269,1348,2085,2287,1398,1617,1617
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),2AK,--,--,--,4303,4303,4303,--,--,--,2669,2669,2669
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),2AR,6568,6568,6568,2190,3449,--,1802,2556,2556,1617,2249,2249
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),2BG,2928,4512,7934,1169,1169,1169,2133,2177,2177,2350,2657,3270
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),2BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),2BR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),3AG,950,950,1919,1213,1213,1213,716,1640,1640,787,1031,1031
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),3AK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),3AR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),3BG,1051,1128,3743,1107,1144,1468,1098,1437,1518,949,1275,1305
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),3BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),3BR,--,--,--,2161,2795,2795,1780,2313,2313,1195,1305,1331
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),GM,336,580,1261,558,660,1143,530,738,888,429,676,742
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),GMK,1408,1408,1408,3175,3175,3175,2072,2072,2441,2043,2043,2043
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),GMR,1011,1308,4126,1008,2190,2190,1344,1808,2085,1123,1195,1195
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),SCG,6104,9716,9716,10767,11988,11742,8163,9060,9060,5918.5,7823,7874
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),SCK,--,--,--,--,--,--,9060,22097,22097,13399,13399,13399
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),SCR,9716,18500,57731,11742,13967,13967,9040,19186,19186,10042,10042,16164.5
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),STG,--,--,--,11558,11828,11268,10999,12978,12978,7579,7832,7862
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),STK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),STR,--,--,--,22763,22763,22763,12387,21709,21709,8934,11936,11936
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,1G,782,923,964,658,749,749,636,1177,2410,514,2013,2013
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,1K,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,1R,1283,1283,1283,1226,1226,1226,3282,4288,4288,1088,2620,2620
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,2AG,823,903,1682,873,1092,1092,938,1348,1421,985,1398,1726
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,2AK,1162,1162,9613,1659,1672,1672,3982,3982,3982,1462,1462,5067
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,2AR,1684,1739,4393,1235,1429,1429,1009,1806,1806,1573,1788,2126
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,2BG,530,1174,3226,1100,1100,1100,1068,1201,1201,1720,1847,2171
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,2BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,2BR,--,--,--,3436,3436,3436,--,--,--,2171,2171,6074
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,3AG,525,614,1650,395,397,397,563,945,1239,526.5,769,769
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,3AK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,3AR,633,824,2321,844,844,844,941,1345,1345,738,1393,1393
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,3BG,437,748,910,501,544,544,854,866,1096,721,910,910
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,3BK,--,--,--,--,--,--,--,--,--,2152,2152,2152
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,3BR,606,879,1777,731,800,830,933,1165,1165,750,1027,1027
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,GM,158,309,454,242,310,360,290,419,501,234,446,499
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,GMK,423,769,1162,1451,1659,1659,1119,2203,2203,1249,1249,1462
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,GMR,436,700,1206,717,731,800,894,1009,1130,705,813,813
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,SCG,2586,3218,4482,2668,4008,6380,4131,4706,5143,5091,6629,6653
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,SCK,11088,11088,11088,11447,11447,11447,4849,4849,29723,10130,10130,18292
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,SCR,3298,4728,15720,8829,10358,10358,6453,10271,18988,8580,9088,11320
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,STG,969,3277,9182,4767,7132,7132,5499,9438,9438,5593,7162,7162
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,STK,--,--,--,6320,27929,27929,13393,13393,13393,5738,13536,13536
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING,STR,--,--,--,7132,11075,11075,7087,17200,17200,7094,9917,9917
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),1G,1109,1191,9430,1067,3047,--,1652,1652,1652,1660,2751,2751
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),1K,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),1R,--,--,--,--,--,--,--,--,--,2620,5443,5443
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),2AG,1806,2121,2570,2195,2593,2593,1901,2400,3089,1636,1912,2291
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),2AK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),2AR,1814,3149,3149,2667,2992,2992,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),2BG,5253,5253,5253,2508,2508,2508,2156,2156,2156,3044,3977,6820.75
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),2BK,18303,18303,18303,--,--,--,25997,25997,25997,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),2BR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),3AG,--,--,--,1177,1177,1954,1681,2001,2001,1073,1922,1922
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),3AK,--,--,--,5075,5075,5075,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),3AR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),3BG,958,1449,3717,1266,1384,1384,1234,1518,1956,1189,1548,1548
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),3BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),3BR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),GM,368,705,1779,620,726,1339,604,771,1017,508,833,990
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),GMK,--,--,--,--,--,--,--,--,--,2075,2075,2075
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),GMR,1308,1833,2924,2620,2620,2620,1716,2098,2098,1498,1785,1785
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),SCG,5329,5329,13841,13967,16191,12957,9570,10365,10365,8078,10055,10055
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),SCK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),SCR,13841,13841,29049,26998,26998,26998,18988,18988,38445,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),STG,3334,3334,12564,8463,8463,8463,12514,12910,12910,7312,7862,8296
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),STK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),STR,--,--,--,--,--,--,15664,23027,31510,9917,16609,16609
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),1G,--,--,--,2027,2027,2027,1566,2307,2307,1122,2621,2621
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),1K,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),1R,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),2AG,1089,1644,1776,1779,1779,1779,1598,1996,1996,1389,1636,1912
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),2AK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),2AR,--,--,--,2300,2667,2667,2016,5240,5240,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),2BG,3356,3356,3356,2221,2221,2221,2077,2077,2077,1847,3044,6619
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),2BK,--,--,--,--,--,--,--,--,--,8933,8933,8933
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),2BR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),3AG,567,1269,3816,659,839,1382,1239,1681,1681,1031,1464,1135
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),3AK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),3AR,1778,4120,4120,--,--,--,--,--,--,1796,1796,1796
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),3BG,832,1065,1065,1029,1029,1029,1116,1389,1389,986,1402,1402
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),3BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),3BR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),GM,287,576,1062,456,511,899,459,664,745,367,724,944
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),GMK,1300,3932,6833,2750,2750,2750,5012,5012,5012,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),GMR,700,1817,1817,1299,1777,1777,1795,2149,2155,1124,1272,1272
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),SCG,6285,8008,10542,10583,10767,10583,7857,9135,9135,7543,9394,9394
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),SCK,30937,30937,49578,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),SCR,--,--,--,14262,18082,18082,13385,14736,14736,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),STG,3427,7326,12365,12615,17030,17030,10267,10267,10267,5848,5848,5848
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),STK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Computer Science Cluster,COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE),STR,--,--,--,--,--,--,--,--,--,8372,8372,8372
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,1G,--,--,--,7641,7641,--,7711,7711,7711,3856,9182,9182
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,1K,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,1R,6341,16840,23808,24901,24901,24901,14418,14418,14418,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,2AG,8378,8402,12264,5967,7293,7726,8814,8993,8993,5882,7765,7765
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,2AK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,2AR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,2BG,7072,14064,14064,5338,5338,19769,8086,8086,8086,8388,8388,11023
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,2BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,2BR,49502,49502,49502,34415,34415,34415,--,--,--,15921.5,15921.5,15921.5
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,3AG,6543,6543,15169,4147,5204,--,5643,5643,7154,3713,4806,4909
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,3AK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,3AR,--,--,--,--,--,--,7154,7154,22136,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,3BG,5049,6619,12850,5674,6093,6093,3455,3455,6248,3894,4922,4922
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,3BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,3BR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,GM,2095,4720,8103,2663,3532,6013,1105,3328,4202,1126.75,1845,2783
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,GMK,6890,6890,23532,14314,14314,14314,12269,14441,14441,6573,6573,6573
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,GMR,6056,6056,11030,6716,7131,7131,5851,5851,5851,4276,7130,7130
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,SCG,18500,28579,50700,19944,15930,15930,--,--,--,14486,14486,14486
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,SCK,31318,69258,69258,80801,80801,80801,--,--,--,49359,60391,60391
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,SCR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,STG,10385,16577,35614,25162,25162,25162,23041,23041,23041,18457,18457,18457
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,STK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRICAL AND ELECTRONICS ENGINEERING,STR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,1G,1641,2686,6593,2562,2562,2562,2679,3129,3129,2682,3675,3675
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,1K,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,1R,--,--,--,--,--,--,--,--,--,5199,5199,5199
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,2AG,2672,3272,5932,2828,3210,3414,2665,2859,2877,2041,2196,2559
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,2AK,4753,6894,14392,10543,10747,10747,5856,5856,5856,4862,4862,4862
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,2AR,3411,5932,10684,4999,6117,6117,3860,3860,3860,2295,2559,6497
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,2BG,5529,5529,6482,5547,6401,5547,2858,3506,3506,3937,4622,4622
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,2BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,2BR,12184,12184,12184,--,--,--,6095,6095,6095,7791,7791,7791
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,3AG,1565,1875,1900,1565,1639,1639,1968,1968,1968,1384,1980,3168
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,3AK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,3AR,--,--,--,--,--,--,3158,3793,3793,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,3BG,1895,2009,2181,1832,1832,1838,1956,2290,2363,2155,2483,2483
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,3BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,3BR,2806,3289,6736,4252,5893,5893,3185,3185,3185,2200,2691,2691
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,GM,776,1145,1737,761,969,1366,746,995,1354,573,914,1100
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,GMK,4122,4753,4753,4743,4743,4743,4000,4000,4000,3632,3632,3632
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,GMR,2643,3094,4872,2665,3563,3563,3084,3158,3158,2115,2200,2295
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,SCG,8915,9914,20365,11988,12448,16080,14641,15024,15024,13568,14356,14356
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,SCK,20724,20724,20724,22018,22018,22018,25618,28765,32078,31839,26600,26600
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,SCR,13796,14778,39566,24848,31536,24848,15510,21462,21462,16408,16408,20505
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,STG,4550,7574,9056,13670,17802,13670,22676,28258,28258,12671,12785,12785
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,STK,--,--,--,--,--,--,56231,56231,56231,24193,24193,24193
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND COMMUNICATION ENGINEERING,STR,9056,9056,15979,20237,20237,20237,23109,37844,62214,13104,13104,13104
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,1G,6188,6188,6188,11082,11082,--,5309,5309,5309,3987,4846,4846
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,1K,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,1R,--,--,--,--,--,--,18144,18144,18144,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,2AG,8026,9529,9529,6738,6738,6738,5769,5769,5769,4498,4720,4720
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,2AK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,2AR,11030,16835,50350,16284,16284,16284,12684,12684,21394,9568,9568,9568
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,2BG,11946,11946,11946,9975,9975,9975,12805,15359,15359,5000,5000,5000
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,2BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,2BR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,3AG,6477,6477,6477,4594,5096,--,3938,3938,3938,2039,3713,5938
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,3AK,--,--,--,--,--,--,29054,29054,29054,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,3AR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,3BG,4035,4035,13392,5457,5457,5457,4303,4303,4303,2483,3894,3894
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,3BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,3BR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,GM,2795,3927,6073,2397,3119,4663,1240,2119,2347,987,1507,1422
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,GMK,33321,33321,33321,--,--,--,--,--,--,11328,11328,11328
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,GMR,7992,7992,25587,10981,12245,12245,8330,8330,8330,8055,9340,9340
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,SCG,37001,37001,50853,34304,34304,34304,--,--,--,24657,26799.75,26799.75
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,SCK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,SCR,51489,73123,73123,36070,36070,36070,--,--,--,57966,75192,75192
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,STG,--,--,--,43824,67522,67522,28258,32335,64616,20511,20511,20511
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,STK,--,--,--,119357,119357,119357,--,--,--,--,--,--
+R. V. College of Engineering,Electronics Cluster,ELECTRONICS AND TELECOMMUNICATION ENGINEERING,STR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,1G,26341,34641,35842,28618,28618,28618,16653,27080,27080,--,15934.5,15934.5
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,1K,--,--,--,--,--,--,--,--,--,83183,--,--
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,1R,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,2AG,30945,39805,51944,27920,27920,27920,26703,26703,49727,21964,26478,26478
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,2AK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,2AR,50061,74026,74026,61487,122007,122007,33510,49727,109214,28229,28229,28229
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,2BG,25929,25929,122487,--,--,--,37494,69096,69096,18099,18099,18099
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,2BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,2BR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,3AG,25488,27425,29420,46672,46672,46672,15870,23971,23971,15228.5,15228.5,19688
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,3AK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,3AR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,3BG,23080,67040,67040,36603,36603,36603,24945,24945,27903,15717.5,19728,19728
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,3BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,3BR,--,--,--,--,56071,56071,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,GM,22207,24914,27893,16624,16875,21189,13536,19695,21255,8703,13086,15717.5
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,GMK,67762,67762,67762,32684,32684,32684,28983,28983,28983,--,--,--
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,GMR,46621,50061,50061,27743,54292,54292,28395,33510,35911,11845,21517,25376
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,SCG,79172,79172,93406,64510,64510,64510,--,--,--,53712,83866,83866
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,SCK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,SCR,--,--,--,--,--,--,96205,96205,96205,83866,107316,107316
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,STG,--,--,--,160749,160749,160749,74755,74755,74755,92894,93039,93039
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,STK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,INDUSTRIAL ENGINEERING AND MANAGEMENT,STR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,1G,13942,16738,32257,20779,20779,20779,11574,11574,39009,9298,9298,9298
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,1K,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,1R,--,--,--,53783,76701,76701,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,2AG,19819,24915,24915,21908,24398,21908,16158,17980,17980,13089,16810,19179
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,2AK,46189,46189,100797,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,2AR,41940,41940,41940,22958,27129,40650,20191,29807,29807,18580,19179,29462
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,2BG,19360,19360,138406,18688,18688,18688,13964,30435,30435,10241.5,10241.5,10241.5
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,2BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,2BR,--,--,--,--,--,--,21456,70000,109256,--,--,--
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,3AG,11390,15452,38971,15803,15803,15803,6229,14483,14483,7587,7587,9021
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,3AK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,3AR,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,3BG,15119,15119,21651,21423,23111,23111,12340,14491,14491,7540,7826,9690
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,3BK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,3BR,31110,31110,61287,--,--,--,--,--,--,12585,19538,19538
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,GM,7320,11234,14590,6023,6137,11815,3958,6390,8395,2900.5,5007.5,5812
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,GMK,27303,36320,46189,18424,18424,27129,32152,53053,55420,14155,23881,23881
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,GMR,30068,30068,31110,16068,24824,33449,17179,17616,21410,11969,14076,14076
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,SCG,50399,50700,85008,66470,66470,85152,--,--,--,48258,48258,60651.5
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,SCK,--,--,--,86808,86808,86808,55420,55420,--,64865,140282,140282
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,SCR,64826,65975,120773,115440,115440,115440,51920,95133,95133,49961,49961,96917
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,STG,57267,57267,78185,72298,72298,72298,61778,61778,61778,50016,50016,50016
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,STK,--,--,--,--,--,--,--,--,--,--,--,--
+R. V. College of Engineering,Mechanical Cluster,MECHANICAL ENGINEERING,STR,--,--,--,77419,129975,129975,64188,64188,64188,76351,92894,92894
